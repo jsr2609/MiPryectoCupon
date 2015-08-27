@@ -1,0 +1,25 @@
+/web/bundles/
+/app/bootstrap.php.cache
+/app/cache/*
+/app/config/parameters.yml
+/app/logs/*
+!app/cache/.gitkeep
+!app/logs/.gitkeep
+/build/
+/vendor/
+/bin/
+/composer.phar
+/app/sessions/
+.directory
+web/uploads/*
+web/archivos/*
+*.php~
+*.back
+*.zip
+<<<<<<< HEAD
+/nbproject/private/
+.idea/*
+=======
+/nbproject/
+.idea/workspace.xml
+>>>>>>> origin/master
